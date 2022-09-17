@@ -1,4 +1,4 @@
-from gtts import gTTS
+from gtts import gTTS #pip install gTTS
 
 kalimat = input("masuka kata: ")
 
